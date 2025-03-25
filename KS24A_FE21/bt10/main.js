@@ -20,3 +20,4 @@ function isNPrimeNum(){
     }
     console.log(inKetQua)
     }
+    isNPrimeNum()
